@@ -1,5 +1,4 @@
-# Rule-Based-AI-chatbot
-https://github.com/scorpioat311-blip/Rule-Based-AI-chatbot.git
+
 # 🤖 Rule Based AI Chatbot — A simple Python chatbot built with rule-based logic.
 
 This project is a command-line chatbot developed in Python that responds to predefined user commands using conditional logic and dictionaries. It demonstrates the fundamentals of chatbot development while keeping the code clean, readable, and beginner-friendly.
