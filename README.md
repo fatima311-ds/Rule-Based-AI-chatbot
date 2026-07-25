@@ -40,11 +40,6 @@ This project is a command-line chatbot developed in Python that responds to pred
 https://github.com/scorpioat311-blip/Rule-Based-AI-chatbot.git
 ```
 
-### Navigate to the project folder
-
-```
-```
-
 ### Run the chatbot
 
 ```bash
@@ -74,7 +69,6 @@ The chatbot can:
 - Show the current date and time
 - Handle invalid commands gracefully
 
-**Screenshots:** Add terminal screenshots inside the `screenshots/` folder and reference them here if available.
 
 ---
 
