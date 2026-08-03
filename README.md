@@ -54,8 +54,7 @@ https://github.com/scorpioat311-blip/Rule-Based-AI-chatbot.git
 Rule-Based-AI-Chatbot/
 │
 ├── chatbot.py
-├── README.md
-└── screenshots/
+└── README.md
 ```
 
 ---
